@@ -1,7 +1,7 @@
 def main():
 	name = input("What's your name: ")
 	if name == "satoshi":
-		print("hello satoshi!")
+		print("who are you satoshi!")
 	else:
 		print("goodbye " + name + "!")
 	
